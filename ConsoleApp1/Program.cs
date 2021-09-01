@@ -9,6 +9,7 @@ namespace XmlParsingTestConsoleApp
     {
         static void Main(string[] args)
         {
+            string test="asd";
             string emptyString = string.Empty;
             string nowDateString = DateTime.Now.ToString("yyyy-MM-dd");
             string nowDateUtcString = DateTime.Now.ToString("yyyy-MM-ddTHH:mm:ss.fffzzz");
