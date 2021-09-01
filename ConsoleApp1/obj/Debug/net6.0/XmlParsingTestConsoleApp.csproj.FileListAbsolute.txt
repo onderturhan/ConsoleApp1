@@ -1,0 +1,15 @@
+C:\Users\OnderTurhan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\XmlParsingTestConsoleApp.exe
+C:\Users\OnderTurhan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\XmlParsingTestConsoleApp.deps.json
+C:\Users\OnderTurhan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\XmlParsingTestConsoleApp.runtimeconfig.json
+C:\Users\OnderTurhan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\XmlParsingTestConsoleApp.dll
+C:\Users\OnderTurhan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ref\XmlParsingTestConsoleApp.dll
+C:\Users\OnderTurhan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\XmlParsingTestConsoleApp.pdb
+C:\Users\OnderTurhan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\XmlParsingTestConsoleApp.csproj.AssemblyReference.cache
+C:\Users\OnderTurhan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\XmlParsingTestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OnderTurhan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\XmlParsingTestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\OnderTurhan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\XmlParsingTestConsoleApp.AssemblyInfo.cs
+C:\Users\OnderTurhan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\XmlParsingTestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\OnderTurhan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\XmlParsingTestConsoleApp.dll
+C:\Users\OnderTurhan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\XmlParsingTestConsoleApp.dll
+C:\Users\OnderTurhan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\XmlParsingTestConsoleApp.pdb
+C:\Users\OnderTurhan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\XmlParsingTestConsoleApp.genruntimeconfig.cache
